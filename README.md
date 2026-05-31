@@ -29,6 +29,8 @@ This repository is maintained **with the express authorization of Garula**, the 
 >
 > Third-party sites may host incomplete, outdated, or tampered versions. Always play from the official source to support Garula directly.
 
+![Authorization from Garula](./authorization.png)
+
 ---
 
 ## 🎭 What Is The Freak Circus?
